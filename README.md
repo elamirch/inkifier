@@ -1,5 +1,5 @@
 # inkifier
-Inkify your photos easily just like this...
+Inkify your photos easily just like this ⬇️
 
 ## Input:
 <img src="examples/damavand.jpg" alt="A photo of Damavand"></br>
