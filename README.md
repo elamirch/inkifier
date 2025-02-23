@@ -42,7 +42,7 @@ Give this repo a ⭐ if you like it!
 ---
 
 ## 📜 License
-MIT License – Use freely, modify, and create something awesome!
+MPL2.0 License – Use freely, modify, and create something awesome!
 
 ---
 
