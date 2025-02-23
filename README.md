@@ -1,4 +1,6 @@
 # inkifier
+This package uses Rust's OpenCV to apply Canny Edge Detection on images, well it's just nice :)
+
 Inkify your photos easily just like this ⬇️
 
 ## Input:
